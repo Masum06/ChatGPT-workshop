@@ -8,10 +8,13 @@ Slide: https://docs.google.com/presentation/d/1DCSkSyFMpIwKfqaFQL5Xqb-56ShcgtK5J
 2. `Summarize the following article,`
 3. `Explain Superconductivity to a 5 year old`
 4. `Milder word for "frustration"`
-5. `SAPIEN is a virtual avatar, AI, and Large Language Model based education company. SAPIEN is an abbreviation, suggest 10 full forms of SAPIEN.`
-6. Teaching with ChatGPT: https://openai.com/blog/teaching-with-ai
-7. `Write an academic HTML web page template for a CS PhD student.`
-8. 
+5. `Write a Drake song about the Twitter drama.`
+6. `SAPIEN is a virtual avatar, AI, and Large Language Model based education company. SAPIEN is an abbreviation, suggest 10 full forms of SAPIEN.`
+7. Teaching with ChatGPT: https://openai.com/blog/teaching-with-ai
+8. `Write an academic HTML web page template for a CS PhD student.`
+
+
+Other resources: https://github.com/f/awesome-chatgpt-prompts
 
 
 ## Advanced Prompts
