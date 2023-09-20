@@ -36,4 +36,7 @@ How much does the ball cost? _____ cents
 ```
 I have a demo presentation at ACII 2023 demo track tomorrow. Help me make a powerful and short pitch for my demo. Keep asking questions until you are confident that you have enough information. When you have enough information, help me write a pitch.
 ```
-
+6. Advanced data analytics.
+   Titanic dataset: [https://www.kaggle.com/c/titanic/data](https://github.com/datasciencedojo/datasets/blob/master/titanic.csv)titanic.csv
+   
+   
