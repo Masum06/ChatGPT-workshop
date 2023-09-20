@@ -4,15 +4,14 @@ Slide: https://docs.google.com/presentation/d/1DCSkSyFMpIwKfqaFQL5Xqb-56ShcgtK5J
 
 ## Good Prompts
 
-1. Write a function in Python that outputs the n'th fibonacci number using dynamic programming.
-2. Summarize the following article,
-3. Explain Superconductivity to a 5 year old
-4. Milder word for "frustration"
-5. SAPIEN is a virtual avatar, AI, and Large Language Model based education company. SAPIEN is an abbreviation, suggest 10 full form of SAPIEN.
+1. `Write a function in Python that outputs the n'th fibonacci number using dynamic programming.`
+2. `Summarize the following article,`
+3. `Explain Superconductivity to a 5 year old`
+4. `Milder word for "frustration"`
+5. `SAPIEN is a virtual avatar, AI, and Large Language Model based education company. SAPIEN is an abbreviation, suggest 10 full forms of SAPIEN.`
 6. Teaching with ChatGPT: https://openai.com/blog/teaching-with-ai
-7. Write an academic html web page template for a CS PhD student.
+7. `Write an academic HTML web page template for a CS PhD student.`
 8. 
-9. 
 
 
 ## Advanced Prompts
@@ -31,4 +30,7 @@ How much does the ball cost? _____ cents
 4. Self-reflection: https://chat.openai.com/share/12fffcb7-11dd-4dab-9eda-2eb8c2f08956
   
 5. Question me until ready: Making a pitch from paper abstract: https://chat.openai.com/share/21dc6ee4-5b0c-484b-9f59-c15c38e62cfd
+```
+I have a demo presentation at ACII 2023 demo track tomorrow. Help me make a powerful and short pitch for my demo. Keep asking questions until you are confident that you have enough information. When you have enough information, help me write a pitch.
+```
 
