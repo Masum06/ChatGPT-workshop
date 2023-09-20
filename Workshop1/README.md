@@ -5,13 +5,14 @@ Slide: https://docs.google.com/presentation/d/1DCSkSyFMpIwKfqaFQL5Xqb-56ShcgtK5J
 ## Good Prompts
 
 1. `Write a function in Python that outputs the n'th fibonacci number using dynamic programming.`
-2. `Summarize the following article,`
-3. `Explain Superconductivity to a 5 year old`
-4. `Milder word for "frustration"`
-5. `Write a Drake song about the Twitter drama.`
-6. `SAPIEN is a virtual avatar, AI, and Large Language Model based education company. SAPIEN is an abbreviation, suggest 10 full forms of SAPIEN.`
-7. Teaching with ChatGPT: https://openai.com/blog/teaching-with-ai
-8. `Write an academic HTML web page template for a CS PhD student.`
+2. `Write an academic HTML web page template for a CS PhD student.`
+3. `Summarize the following article,`
+4. `Explain Superconductivity to a 5 year old`
+5. `Milder word for "frustration"`
+6. `Write a Drake song about the Twitter drama.`
+7. `SAPIEN is a virtual avatar, AI, and Large Language Model based education company. SAPIEN is an abbreviation, suggest 10 full forms of SAPIEN.`
+8. Teaching with ChatGPT: https://openai.com/blog/teaching-with-ai
+
 
 
 Other resources: https://github.com/f/awesome-chatgpt-prompts
