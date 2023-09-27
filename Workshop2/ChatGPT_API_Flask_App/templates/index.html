@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ChatGPT API with Flask</title>
+</head>
+<body>
+
+<h1>Type a statement and get a response from ChatGPT</h1>
+
+<form method="post">
+    <textarea name="user_input" rows="4" cols="50"></textarea><br><br>
+    <input type="submit" value="Submit">
+</form>
+
+{% if chatGPT_response %}
+    <h2>ChatGPT Response:</h2>
+    <p>{{ chatGPT_response | safe }}</p>
+{% endif %}
+
+</body>
+</html>
