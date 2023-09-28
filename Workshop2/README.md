@@ -11,5 +11,5 @@ ChatGPT API docs:
 
 
 - Colab: https://colab.research.google.com/drive/18Im68smW9_JHHHB49vClfHIe7W_UbCnx?usp=sharing
-- Full project: https://github.com/Masum06/ChatGPT-workshop/tree/main/Workshop2- Full project: https://github.com/Masum06/ChatGPT-workshop/tree/main/Workshop2
+- Full project: https://github.com/Masum06/ChatGPT-workshop/tree/main/Workshop2
 - ChatGPT prompt to build a full Flask app: https://chat.openai.com/share/bb506731-d7fe-4f04-8f38-c52496122538
